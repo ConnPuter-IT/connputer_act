@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+    <url>
+        <loc>http://connputer.de/</loc>
+        <lastmod>2018-09-19T14:07:20+00:00</lastmod>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>http://connputer.de/index.php</loc>
+        <lastmod>2018-09-19T14:07:20+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://connputer.de/sites/reparatur.php</loc>
+        <lastmod>2018-09-19T14:07:20+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://connputer.de/sites/leistungen.php</loc>
+        <lastmod>2018-09-19T14:07:20+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://connputer.de/sites/ankauf.php</loc>
+        <lastmod>2018-09-19T14:07:20+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://connputer.de/sites/kontakt.php</loc>
+        <lastmod>2018-09-19T14:07:20+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://connputer.de/sites/impressum.php</loc>
+        <lastmod>2018-09-19T14:07:20+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://connputer.de/sites/agb.php</loc>
+        <lastmod>2018-09-19T14:07:20+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+
+</urlset>
